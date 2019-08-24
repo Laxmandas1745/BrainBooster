@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="HOME"
+    />
+
+    <item
+            android:id="@+id/MIC"
+            android:icon="@drawable/ic_mic_none_black_24dp"
+            android:title="MIC"
+    />
+
+    <item
+            android:id="@+id/PROFILE"
+            android:icon="@drawable/ic_account_circle_black_24dp"
+            android:title="PROFILE"
+    />
+
+</menu>
